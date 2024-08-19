@@ -1,0 +1,23 @@
+splash_disable 1
+fontname_signals Monospace 11
+fontname_waves Monospace 11
+#use_big_fonts 10
+use_standard_trace_select on
+highlight_wavewindow on
+# “x” 新建一个 marker，“z” 删除一个 marker，“c” 删除所有 marker
+accel "/Markers/Drop Named Marker" z
+accel "/Markers/Collect Named Marker" x
+accel "/Markers/Collect All Named Markers" c
+accel "/Edit/Delete" BackSpace
+
+hier_grouping 1
+hier_max_level 2
+left_justify_sigs 1
+use_fat_lines 1
+use_roundcaps 1
+disable_mouseover 1
+color_grid 636363
+enable_horiz_grid 0
+
+
+

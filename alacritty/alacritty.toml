@@ -1,0 +1,8 @@
+import = ["/home/coa/.config/alacritty/alacritty-theme-penumbra/penumbra-dark++.toml"]
+
+shell = "tmux"
+
+font.size = 13
+font.normal = { family = "IntoneMono Nerd Font"}
+mouse.hide_when_typing = true
+window.startup_mode = "Maximized"
